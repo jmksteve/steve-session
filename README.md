@@ -1,41 +1,65 @@
-# Steve-Session-ID Generator
-- Kindly star this repo
-- Fork and edit as you wish
-- Deploy to your favourite hosting server e.g. Heroku, Render, or self-hosting
-
-<strong>NB:<strong/> This repo also generates session IDs for all bots using whiskeysockets/baileys
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-<br/>QR-WEB - PAIR CODE FOR BOT WITH WHISKEYSOCKETS/BAILEYS
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=8A2BE2&center=true&width=1000&height=200&lines=NEXUS-XMD" alt="Typing SVG" /></a>
+  </div>
+<a><img src='https://files.catbox.moe/78muhw.jpg'/></a>
 
 <p align="center">
-   <a href="https://github.com/jmksteve">
-    <img src="https://telegra.ph/file/da95ed969f943e4d61ca8.jpg" width="500">
+  <a href="https://github.com/jmksteve"><img title="Developer" src="https://img.shields.io/badge/Author-NEXUS%20XMD-FF00FF.svg?style=big-square&logo=github" /></a>
+</p>
+
+<div align="center">
+  
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-9ACD32?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x)
+</div>
+
+ <p align="center"><img src="https://profile-counter.glitch.me/{pkdriller}/count.svg" alt="pkdriller :: Visitor's Count" old_src="https://profile-counter.glitch.me/{jmksteve}/count.svg" /></p>
+
+
+<p align='center'>
+
+ <a href="https://github.com/jmksteve/STEVE-XD/fork"><img title="NEXUS-XMD" src="https://img.shields.io/badge/FORK-STEVE XD V1-h?color=008000&style=for-the-badge&logo=github"></a>
+ 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=■+■+■+■+■+ℙ𝕃𝔼𝔸𝕊𝔼+𝔽𝕆ℝ𝕂+𝕋ℍ𝔼+ℝ𝔼ℙ𝕆)](https://git.io/typing-svg)
+
+<!-- Action Buttons -->
+<p align="center">
+  <a href="https://steve-xd-pair-site.onrender.com/">
+    <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/❤️_GET_steve_session-000000?style=for-the-badge&logo=quantum&logoColor=white&color=blue" width="260" height="50"/>
    </a>
 </p>
-
 <p align="center">
-  <img src="https://profile-counter.glitch.me/{jmksteve}/count.svg" alt="Steve-XD Visitor's Count" />
+<a href='https://dashboard.heroku.com/new?template=https://github.com/jmksteve/STEVE-XD/tree/main?tab=readme-ov-file' target="_blank"> <img title="DEPLOY NEXUS-AI BOT" src="https://img.shields.io/badge/👻_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://render.com">
+    <img title="DEPLOY ON RENDER" src="https://img.shields.io/badge/👻_DEPLOY_ON_RENDER-000000?style=for-the-badge&logo=render&logoColor=white&color=61DAFB" width="260" height="50"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://railway.app?referralCode=AqkNn4">
+    <img title="DEPLOY ON RAILWAY" src="https://img.shields.io/badge/👻_DEPLOY_ON_RAILWAY-000000?style=for-the-badge&logo=railway&logoColor=red&color=purple" width="260" height="50"/>
+  </a>
+</p>
+<!-- Glowing Footer -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
 
-[`ℹ️ Contact Owner`](https://wa.me/923185051357)
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+STEVE+XXD+Edition+by+Pkdriller👻;⚡+The+Best+Simple+WhatsApp+Bot+Allover+The+Glob" alt="Footer Animation">
+</h3>
 
-## FORK THE REPOSITORY  
-<a href="https://github.com/jmksteve/steve-session-id-generator">
-<img title="WEB" src="https://img.shields.io/badge/FORK Steve-QR?color=black&style=for-the-badge&logo=stackshare">
-</a>
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
 
-## Now Deploy  
-<a href='https://dashboard.heroku.com/new?template=https://github.com/jmksteve/steve-session-id-generator' target="_blank">
-<img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/>
-</a>
+⭐ Follow My GitHub ⭐
+[![Follow My GitHub](https://img.shields.io/static/v1?label=Follow%20My%20GitHub&message=Account&color=800000&style=for-the-badge&logo=github&logoColor=pink)](https://github.com/jmksteve) 
+<p align="center">
+    <a href="https://chat.whatsapp.com/KUc6KZ4OTAcJDkIDDGFz4O">
+        <img height="30" title="SUPPORT GROUP" src="https://img.shields.io/badge/Support%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+    </a>
+</p>
 
-[`HERE'S AN EXAMPLE OUTPUT`](https://steve-session-test-2d5de70f8522.herokuapp.com)
 
----
-
-## `Owner`
-
-<a href="https://github.com/jmksteve">
-<img src="https://github.com/jmksteve.png" width="250" height="250" alt="Steve-XD"/>
-</a>
