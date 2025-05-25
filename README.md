@@ -1,34 +1,41 @@
-const { default: makeWASocket, useMultiFileAuthState } = require('@whiskeysockets/baileys');
-const { Boom } = require('@hapi/boom');
-const pino = require('pino');
-const fs = require('fs');
-const path = require('path');
+# Steve-Session-ID Generator
+- Kindly star this repo
+- Fork and edit as you wish
+- Deploy to your favourite hosting server e.g. Heroku, Render, or self-hosting
 
-const SESSION_ID = process.env.SESSION_ID || 'default_session'; // custom session id via env or fallback
+<strong>NB:<strong/> This repo also generates session IDs for all bots using whiskeysockets/baileys
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<br/>QR-WEB - PAIR CODE FOR BOT WITH WHISKEYSOCKETS/BAILEYS
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
-async function startBot() {
-  const sessionFolder = path.join(__dirname, 'session', SESSION_ID);
+<p align="center">
+   <a href="https://github.com/jmksteve">
+    <img src="https://telegra.ph/file/da95ed969f943e4d61ca8.jpg" width="500">
+   </a>
+</p>
 
-  const { state, saveCreds } = await useMultiFileAuthState(sessionFolder);
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{jmksteve}/count.svg" alt="Steve-XD Visitor's Count" />
+</p>
 
-  const sock = makeWASocket({
-    auth: state,
-    printQRInTerminal: true,
-    logger: pino({ level: 'silent' })
-  });
+[`ℹ️ Contact Owner`](https://wa.me/923185051357)
 
-  sock.ev.on('creds.update', saveCreds);
+## FORK THE REPOSITORY  
+<a href="https://github.com/jmksteve/steve-session-id-generator">
+<img title="WEB" src="https://img.shields.io/badge/FORK Steve-QR?color=black&style=for-the-badge&logo=stackshare">
+</a>
 
-  sock.ev.on('connection.update', ({ connection, lastDisconnect }) => {
-    if (connection === 'close') {
-      const shouldReconnect = (lastDisconnect.error = Boom)?.output?.statusCode !== DisconnectReason.loggedOut;
-      if (shouldReconnect) {
-        startBot();
-      }
-    } else if (connection === 'open') {
-      console.log('✅ Bot Connected using Session ID:', SESSION_ID);
-    }
-  });
-}
+## Now Deploy  
+<a href='https://dashboard.heroku.com/new?template=https://github.com/jmksteve/steve-session-id-generator' target="_blank">
+<img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/>
+</a>
 
-startBot();
+[`HERE'S AN EXAMPLE OUTPUT`](https://steve-session-test-2d5de70f8522.herokuapp.com)
+
+---
+
+## `Owner`
+
+<a href="https://github.com/jmksteve">
+<img src="https://github.com/jmksteve.png" width="250" height="250" alt="Steve-XD"/>
+</a>
